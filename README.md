@@ -1,7 +1,7 @@
 # Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-## NAME:AADITHYAN R
-## REGISTER NUMBER: 212222230001
+## NAME:NAVEEN KUMAR B
+## REGISTER NUMBER: 212222230091
 ## DATE: 30/08/2025
 
 ---
